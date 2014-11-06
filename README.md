@@ -1,4 +1,4 @@
-Hombre-Ara-a
+Hombre-Arana
 ============
 
-Programacion Web. 
+Programacion Web, aplicacion trabajado en desarrollo web, HTML5, CSS3, JavaScript, AJAX,PHP. 
